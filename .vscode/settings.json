@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.rulers": [72, 79]
+    },
+    "python.linting.mypyEnabled": true,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "/usr/local/bin/python",
+    "git.enableCommitSigning": true
+}
